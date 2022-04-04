@@ -26,7 +26,3 @@ app.post("/", function(req, res) {
 app.listen(3000, function() {
     console.log("Server is running on port 3000.")
 })
-
-// API KEY 2eb05479631db5199c65fb50ecf28975-us5
-
-// LIST ID 96b7645f4
